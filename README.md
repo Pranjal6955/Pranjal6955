@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning MERN stack<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Debugging my own code since 2024 😆<br>  
+📚 Learning MERN stack 🌱<br>  
+🎯 Goal: Build awesome full-stack projects 🚀<br>  
+🎲 Fun fact: I break things just to fix them again! 🔧😂  
+.</p>
 
 ###
 
@@ -53,6 +57,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<h2 align="left">Connect me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/pranjal072025?igsh=ZTJ4cmFldGQwaTU=" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  </a>
+  <a href="https://x.com/PNegi555" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranjal-negi555/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+ <a href="negipranjal555@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+</div>
+
 
 ###
 
