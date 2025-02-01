@@ -61,4 +61,12 @@
   <img src="https://streak-stats.demolab.com?user=Pranjal6955&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div
 ###
+<br clear="both">
+<div align="center">
+
+![snake gif](https://github.com/Pranjal6955/Pranjal6955/blob/output/github-snake-dark.svg)
+
+</div>
+
+###
 
