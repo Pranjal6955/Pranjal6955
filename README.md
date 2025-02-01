@@ -1,6 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
+</h1>
+<h1>👋 Hey, what's up? 🚀</h1>
 
-###
 
 <p align="left">My name is Pranjal Negi and I'm a Developer, from India</p>
 
@@ -59,12 +61,12 @@
 </div>
 
 ###
-
-<h2 align="left">Connect me</h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h1 align="center">📱Connect with me:</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/pranjal072025?igsh=ZTJ4cmFldGQwaTU=" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
@@ -80,15 +82,31 @@
 </div>
 
 
-###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pranjal6955&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal6955&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" style="margin-bottom: 20px;" /><br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal6955&theme=aura" style="margin-right: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal6955&theme=aura" style="margin-left: 10px;" /><br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranjal6955&theme=aura" style="margin-right: 10px; margin-top: 20px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranjal6955&theme=aura&utcOffset=5.3" style="margin-left: 10px; margin-top: 20px;" />
+</div>
+
+
+<p>
 ###
 <br clear="both">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3 align="center">🐍🍽️ Snake is eating my contributions! 😅</h3>
+
+
 <div align="center">
+
 
 ![snake gif](https://github.com/Pranjal6955/Pranjal6955/blob/output/github-snake-dark.svg)
 
