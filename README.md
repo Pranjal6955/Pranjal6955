@@ -6,6 +6,8 @@
 
 <p align="left">My name is Pranjal Negi and I'm a Developer, from India</p>
 
+![](https://komarev.com/ghpvc/?username=Pranjal6955&color=green)
+
 ###
 
 <h2 align="left">About me</h2>
