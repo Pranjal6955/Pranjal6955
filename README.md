@@ -88,7 +88,7 @@
 
 <h3 align="center">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranjal6955&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pranjal6955&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal6955&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" style="margin-bottom: 20px;" /><br>
 
