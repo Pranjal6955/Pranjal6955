@@ -7,7 +7,7 @@ I work with websites, AI, blockchain, and other tech projects. I know JavaScript
 I want to build things that help people. Always happy to work together on fun projects!
 
 
-<h3 align="center">🐍🍽️ Snake is eating my contributions! 😅</h3>
+<h3 align="center">🐍🍽️ Snake is eating my contributions! Let him eat</h3>
 
 
 <div align="center">
