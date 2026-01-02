@@ -1,4 +1,4 @@
-# Hi! I'm Pranjal Negi
+# Hi! I am Pranjal Negi
 
 <h3 align="center">🐍🍽️ Snake is eating my contributions! Let him eat</h3>
 
